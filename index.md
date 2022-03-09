@@ -9,7 +9,7 @@ title: 'Probabilistic Prediction and Comprehensible Motion Planning for Automate
 excerpt: 'An upcoming ITSC2022 workshop'
 ---
 
-~~This workshop will be held at the [25th IEEE International Conference on Intelligent Transportation (ITSC)](https://www.ieee-itsc2022.org/#/), planned for October 8-12, 2022 in Macau, China.~~
+This workshop will be held at the [25th IEEE International Conference on Intelligent Transportation (ITSC)](https://www.ieee-itsc2022.org/#/), planned for October 8-12th, 2022 in Macau, China.
 
 ## Contributions
 
@@ -49,6 +49,6 @@ We are looking forward to contributions addressing these issues and to see you i
 - **Arnaud de La Fortelle**, MINES ParisTech
 - **Christoph Stiller**, Karlsruhe Institute of Technology
 
-<> ## Acknowledgments
+## Acknowledgments
 
-<> The organizers gratefully acknowledge support by the Deutsche Forschungsgemeinschaft (German Research Foundation) within the Priority Program [SPP 1835 - Cooperative Interacting Automobiles](https://www.coincar.de/).
+The organizers gratefully acknowledge support by the Deutsche Forschungsgemeinschaft (German Research Foundation) within the Priority Program [SPP 1835 - Cooperative Interacting Automobiles](https://www.coincar.de/)
