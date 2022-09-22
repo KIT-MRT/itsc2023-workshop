@@ -9,12 +9,12 @@ title: 'Probabilistic Prediction and Comprehensible Motion Planning for Automate
 excerpt: 'An upcoming ITSC2022 workshop'
 ---
 
-This workshop will be held at the [25th IEEE International Conference on Intelligent Transportation (ITSC)](https://www.ieee-itsc2022.org/#/), planned for October 8-12th, 2022 in Macau, China.
+This workshop will be held at the [25th IEEE International Conference on Intelligent Transportation (ITSC)](https://www.ieee-itsc2022.org/#/), planned for October 8th, 14:00 CST, 08:00 CEST, 23:00 PDT, 2022 in Macau, China.
+
+Due to the ongoing disturbances in international travel, this workshop will be given and attended completely remote.
 
 ## Contributions
 
-Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `8s3i2` for your submission. Submission deadline is March 15, 2022.
-See [https://www.ieee-itsc2022.org/#/workshops](https://www.ieee-itsc2022.org/#/workshops) for details on the workshop paper submission and a template.
 Please get in touch with the organizers in case you have any further questions.
 
 ## Scope and Topics
@@ -36,6 +36,10 @@ Similar to prediction, for motion planning in highly interactive scenarios, a â€
 
 
 We are looking forward to contributions addressing these issues and to see you in Macau !
+
+## Agenda
+
+### t.b.d.
 
 ## Organizers
 
