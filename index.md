@@ -6,12 +6,10 @@ header:
   overlay_image: assets/images/header_from_unsplash_dot_com.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 title: 'Probabilistic Prediction and Comprehensible Motion Planning for Automated Vehicles – Approaches and Benchmarking'
-excerpt: 'An upcoming ITSC2022 workshop'
+excerpt: 'An upcoming ITSC2023 workshop'
 ---
 
-This workshop will be held at the [25th IEEE International Conference on Intelligent Transportation (ITSC)](https://www.ieee-itsc2022.org/#/), planned for October 8th, 14:00 CST, 08:00 CEST, 23:00 PDT, 2022 in Macau, China.
-
-Due to the ongoing disturbances in international travel, this workshop will be given and attended completely remote.
+This workshop will be held at the [25th IEEE International Conference on Intelligent Transportation (ITSC)](https://2023.ieee-itsc.org/), planned for 2023 in Bilbao, Spain.
 
 ## Contributions
 
@@ -35,7 +33,7 @@ As a basis for such behavior, and thus closely related, sophisticated behavior p
 Similar to prediction, for motion planning in highly interactive scenarios, a “ground truth” or “best option” is also not existing. To be comprehensible and predictable for other road users, a good plan should be a subs et of an expected prediction for a vehicle in the same situation. The combination of planning and prediction, including but not limited to their evaluation and benchmarking, is the third aim of the proposed workshop. 
 
 
-We are looking forward to contributions addressing these issues and to see you in Macau !
+We are looking forward to contributions addressing these issues and to see you in Bilbao !
 
 ## Agenda
 
