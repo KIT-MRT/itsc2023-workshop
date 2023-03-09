@@ -9,7 +9,7 @@ title: 'Probabilistic Prediction and Comprehensible Motion Planning for Automate
 excerpt: 'An upcoming ITSC2023 workshop'
 ---
 
-This workshop will be held at the [25th IEEE International Conference on Intelligent Transportation (ITSC)](https://2023.ieee-itsc.org/), planned for 2023 in Bilbao, Spain.
+This workshop will be held at the [26th IEEE International Conference on Intelligent Transportation (ITSC)](https://2023.ieee-itsc.org/), planned for 2023 in Bilbao, Spain.
 
 ## Contributions
 
