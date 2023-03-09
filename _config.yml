@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: Workshop Proposal
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Probabilistic Prediction and Comprehensible Motion Planning for Automated Vehicles -- Approaches and Benchmarking
