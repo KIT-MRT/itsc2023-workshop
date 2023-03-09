@@ -10,10 +10,6 @@ excerpt: ''
 ---
 
 
-## Contributions
-
-Please get in touch with the organizers in case you have any further questions.
-
 ## Topics
 The topics of interest of the workshop include, but are not limited to:
 
