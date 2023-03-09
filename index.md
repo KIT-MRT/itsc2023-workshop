@@ -6,10 +6,9 @@ header:
   overlay_image: assets/images/header_from_unsplash_dot_com.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 title: 'Probabilistic Prediction and Comprehensible Motion Planning for Automated Vehicles – Approaches and Benchmarking'
-excerpt: 'An upcoming ITSC2023 workshop'
+excerpt: ''
 ---
 
-This workshop will be held at the [26th IEEE International Conference on Intelligent Transportation (ITSC)](https://2023.ieee-itsc.org/), planned for 2023 in Bilbao, Spain.
 
 ## Contributions
 
@@ -33,7 +32,6 @@ As a basis for such behavior, and thus closely related, sophisticated behavior p
 Similar to prediction, for motion planning in highly interactive scenarios, a “ground truth” or “best option” is also not existing. To be comprehensible and predictable for other road users, a good plan should be a subs et of an expected prediction for a vehicle in the same situation. The combination of planning and prediction, including but not limited to their evaluation and benchmarking, is the third aim of the proposed workshop. 
 
 
-We are looking forward to contributions addressing these issues and to see you in Bilbao !
 
 ## Agenda
 
@@ -41,15 +39,31 @@ We are looking forward to contributions addressing these issues and to see you i
 
 ## Organizers
 
-- **Sascha Hornauer**, MINES ParisTech
-- **Maximilian Naumann**, Bosch Center for Artificial Intelligence
-- **Eike Rehder**, Mercedes-Benz AG
-- **Jiachen Li**, Stanford University, Stanford
-- **Martin Lauer**, Karlsruhe Institute of Technology
-- **Wei Zhan**, University of California at Berkeley
-- **Masayoshi Tomizuka**, University of California at Berkeley
-- **Arnaud de La Fortelle**, MINES ParisTech
-- **Christoph Stiller**, Karlsruhe Institute of Technology
+<style>
+td, th {
+   border: none!important;
+}
+th:empty {
+    display: none;
+}
+table {
+  empty-cells: hide;
+}
+</style>
+
+
+||||
+| :-: | :-: | :-: |
+| <img src="https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download" width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download" width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download" width="196" height="250"> | 
+| **Sascha Hornauer**<br /> MINES Paris | **Maximilian Naumann** <br /> Bosch Center for<br /> Artificial Intelligence (BCAI) | **Eike Rehder** <br />  Robert Bosch GmbH |
+<img src="https://cloud.minesparis.psl.eu/index.php/s/EeNQ4Sd6Xvd3bpj/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/St0MsMoWj08Ui6K/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/nR8bFlVEe4QlsPp/download"  width="196" height="250"> |
+| **Jiachen Li** <br /> Stanford University | **Wei Zhan** <br /> University of California<br /> at Berkeley | **Martin Lauer** <br />  Karlsruhe Institute of<br /> Technology (KIT) |
+| <img src="https://cloud.minesparis.psl.eu/index.php/s/QATKLUjJ1l2BA6F/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/EHn5azQzYNmRmM0/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/F2fdqs7ZuidY5fW/download"  width="196" height="250"> |
+| **Masayoshi Tomizuka** <br /> University of California<br /> at Berkeley | **Arnaud de La Fortelle** <br /> Heex Technologies | **Christoph Stiller** <br /> Karlsruhe Institute<br /> of Technology (KIT) | 
+
+
+Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.
+
 
 ## Acknowledgments
 
