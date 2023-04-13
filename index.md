@@ -9,18 +9,6 @@ title: 'Probabilistic Prediction and Comprehensible Motion Planning for Automate
 excerpt: ''
 ---
 
-
-## Topics
-The topics of interest of the workshop include, but are not limited to:
-
-- Cooperative and comprehensible motion planning 
-- Probabilistic decision making and motion planning (including MDPs, POMDPs, MMDPs) 
-- Probabilistic behavior prediction (with help of semantic high-definition maps) 
-- Second-order effects in heavy interactive scenarios
-- Evaluation and benchmarking of the aforementioned topics
-
-## About the Workshop
-
 Research on Automated Vehicles has experienced vast progress over the last decades. Today, first prototypes are sufficiently safe to drive on selected roads in public traffic. Nevertheless, safety comes at the price of overly conservative behavior, leading to inconvenient situations, for example, at unprotected left turns or merging scenarios. Presumably, the main reasons for this behavior include (a) errors in the prediction of other traffic participants, especially in interactive scenarios and (b) the lack of probabilistic considerations in motion planning. 
 
 
@@ -34,6 +22,27 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 
 
 **Effects of Automation on Traffic**: Data-driven predictions can end up being implicitly conditioned on second-order effects. For example, seeing a recording vehicle or no driver in an autonomous car can influence traffic participant’s decisions. Fixed settings in automated functions, such as safe distances, can influence the traffic flow on highways. While this can potentially introduce a distribution shift for prediction algorithms it could be also leveraged to purposefully shape traffic. We invite therefore also approaches investigating these second-order effects, propagating in highly interactive scenarios.
+
+
+## Call for Papers
+
+We are excited to announce that our workshop has been accepted to be held at the ITSC 2023, Sunday, Sept. 24th, 2023. Please consider submitting your paper  if it aligns with one ore more of our topics or you think it could be a good fit to be discussed at this workhop.
+
+- **All accepted papers will be published in Xplore** so the same conditions as for the main conference apply. Your paper will be peer reviewed and the conference asks for one full registration for each accepted workshop paper. 
+
+- Deadline for paper submission is the **May 15, 2023** or as stated [here](https://2023.ieee-itsc.org/call-for-paper/call-for-papers/) on the official website.
+
+- **All workshops will be held in person**. In case of acceptance we are looking forward to see you at the ITSC in Bilbao, Spain. The same conditions as for the main conference exist in that we can not offer a hybrid workshop this year.
+
+
+## Topics
+The topics of interest of the workshop include, but are not limited to:
+
+- Cooperative and comprehensible motion planning 
+- Probabilistic decision making and motion planning (including MDPs, POMDPs, MMDPs) 
+- Probabilistic behavior prediction (with help of semantic high-definition maps) 
+- Second-order effects in heavy interactive scenarios
+- Evaluation and benchmarking of the aforementioned topics
 
 
 ## Agenda
