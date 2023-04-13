@@ -34,6 +34,8 @@ We are excited to announce that our workshop has been accepted to be held at the
 
 - **All workshops will be held in person**. In case of acceptance we are looking forward to see you at the ITSC in Bilbao, Spain. The same conditions as for the main conference exist in that we can not offer a hybrid workshop this year.
 
+- Please submit your work over the official website: [https://2023.ieee-itsc.org/call-for-paper/call-for-papers/](https://2023.ieee-itsc.org/call-for-paper/call-for-papers/)
+
 
 ## Topics
 The topics of interest of the workshop include, but are not limited to:
