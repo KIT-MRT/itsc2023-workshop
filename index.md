@@ -74,6 +74,6 @@ table {
 | **Masayoshi Tomizuka** <br /> University of California<br /> at Berkeley | **Arnaud de La Fortelle** <br /> Heex Technologies | **Christoph Stiller** <br /> Karlsruhe Institute<br /> of Technology (KIT) | 
 
 
-Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.
+Please get in touch with  [sascha.hornauer@mines-paristech.fr](mailto:sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.
 
 
