@@ -77,6 +77,3 @@ table {
 Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.
 
 
-## Acknowledgments
-
-The organizers gratefully acknowledge support by the Deutsche Forschungsgemeinschaft (German Research Foundation) within the Priority Program [SPP 1835 - Cooperative Interacting Automobiles](https://www.coincar.de/)
