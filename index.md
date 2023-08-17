@@ -24,19 +24,6 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 **Effects of Automation on Traffic**: Data-driven predictions can end up being implicitly conditioned on second-order effects. For example, seeing a recording vehicle or no driver in an autonomous car can influence traffic participant’s decisions. Fixed settings in automated functions, such as safe distances, can influence the traffic flow on highways. While this can potentially introduce a distribution shift for prediction algorithms it could be also leveraged to purposefully shape traffic. We invite therefore also approaches investigating these second-order effects, propagating in highly interactive scenarios.
 
 
-## Call for Papers
-
-We are excited to announce that our workshop has been accepted to be held at the ITSC 2023, Sunday, Sept. 24th, 2023. Please consider submitting your paper  if it aligns with one ore more of our topics or you think it could be a good fit to be discussed at this workhop.
-
-- **All accepted papers will be published in Xplore** so the same conditions as for the main conference apply. Your paper will be peer reviewed and the conference asks for one full registration for each accepted workshop paper. 
-
-- Deadline for paper submission is the **May 15, 2023** or as stated [here](https://2023.ieee-itsc.org/call-for-paper/call-for-papers/) on the official website.
-
-- **All workshops will be held in person**. In case of acceptance we are looking forward to see you at the ITSC in Bilbao, Spain. The same conditions as for the main conference exist in that we can not offer a hybrid workshop this year.
-
-- Please submit your work over the official website: [https://2023.ieee-itsc.org/call-for-paper/call-for-papers/](https://2023.ieee-itsc.org/call-for-paper/call-for-papers/)
-
-
 ## Topics
 The topics of interest of the workshop include, but are not limited to:
 
@@ -47,9 +34,25 @@ The topics of interest of the workshop include, but are not limited to:
 - Evaluation and benchmarking of the aforementioned topics
 
 
-## Agenda
+## Preliminary Agenda (Times and order may change)
 
-### t.b.d.
+| Time  | Name                | Affiliation                                                | Title                                                                                              |
+|-------|---------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 14:00 |                     |                                                            | Welcome to the Workshop                                                                            |
+| 14:15 | Kanghoon Lee        | Korea Advanced Institute of Science and Technology (KAIST) | Robust Driving Policy Learning with Guided Meta Reinforcement Learning                             |
+| 14:35 | Tim Puphal          | Honda Research Institute Europe GmbH                       | Decisive and Comfortable Behavior Planning for Cooperative Driving                                 |
+| 14:55 | Julian Schumann     | TU Delft                                                   | Using Models Based on Cognitive Theory to Predict Human Behavior in Traffic: A Case Study          |
+| 15:15 | Chris van der Ploeg | Eindhoven University of Technology, TNO Automotive         | Occlusion-Aware Model-Predictive Planning Using Piecewise Continuous Risk Fields                   |
+| 15:35 |                     |                                                            |                                                                                                    |
+| 16:00 |                     |                                                            |                                                                                                    |
+| 16:30 | Helen Gremmelmaier  | FZI Forschungszentrum Informatik, Karlsruhe                | Bicyclist behavior: An overview of the features and methods of trajectory modeling                 |
+| 16:50 | Philipp Geiger      | Bosch Center for Artificial Intelligence                   | On Learning the Tail Quantiles of Driving Behavior Distributions via Quantile Regression and Flows |
+| 17:10 | Carlos Fernandez    | Karlsruher Institut für Technologie (KIT), Karlsruhe       | Behavior Prediction and Decision Making – The UNICARagil Case Study                                |
+| 17:30 | Johannes Fischer    | Karlsruher Institut für Technologie (KIT), Karlsruhe       | Learning models for behavior planning in belief space                                              |
+| 17:50 |                     |                                                            |                                                                                                    |
+| 18:10 | All speakers        | Panel Discussion                                           |                                                                                                    |
+| 18:40 |                     |                                                            | Closing Remarks                                                                                    |
+| 19:00 |                     |                                                            |                                                                                                    |
 
 ## Organizers
 
