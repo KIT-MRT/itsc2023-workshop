@@ -43,13 +43,13 @@ The topics of interest of the workshop include, but are not limited to:
 | 14:35 | Tim Puphal          | Honda Research Institute Europe GmbH                       | Decisive and Comfortable Behavior Planning for Cooperative Driving                                 |
 | 14:55 | Julian Schumann     | TU Delft                                                   | Using Models Based on Cognitive Theory to Predict Human Behavior in Traffic: A Case Study          |
 | 15:15 | Chris van der Ploeg | Eindhoven University of Technology, TNO Automotive         | Occlusion-Aware Model-Predictive Planning Using Piecewise Continuous Risk Fields                   |
-| 15:35 | Jonas Sjöberg       | Chalmers University of Technology                          | tbd.                                                                                               |
+| 15:35 | Jonas Sjöberg       | Chalmers University of Technology                          |  Why we don't like interaction in traffic                                                                                               |
 | 16:00 | **Coffee Break**    |                                                            |                                                                                                    |
 | 16:30 | Helen Gremmelmaier  | FZI Forschungszentrum Informatik, Karlsruhe                | Bicyclist behavior: An overview of the features and methods of trajectory modeling                 |
 | 16:50 | Philipp Geiger      | Bosch Center for Artificial Intelligence                   | On Learning the Tail Quantiles of Driving Behavior Distributions via Quantile Regression and Flows |
 | 17:10 | Carlos Fernandez    | Karlsruher Institut für Technologie (KIT), Karlsruhe       | Behavior Prediction and Decision Making – The UNICARagil Case Study                                |
 | 17:30 | Johannes Fischer    | Karlsruher Institut für Technologie (KIT), Karlsruhe       | Learning models for behavior planning in belief space                                              |
-| 17:50 |                     |                                                            |                                                                                                    |
+| 17:50 | Elisa Gaetan        | University of Modena, Italy                                | Exploiting Opinion Dynamics Models for Traffic Predictions                                                                                                   |
 | 18:10 | All speakers        | Panel Discussion                                           |                                                                                                    |
 | 18:40 |                     |                                                            | Closing Remarks                                                                                    |
 | 19:00 |                     |                                                            |                                                                                                    |
